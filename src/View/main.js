@@ -26,7 +26,7 @@ const MainPage = (props) => {
       <AppBar position="static" color="secondary">
         <Toolbar>
           <Typography variant="h6" className={classes.title}>
-            My Resume Builder React Application
+            My Resume Builder React JS Application
           </Typography>
         </Toolbar>
       </AppBar>
